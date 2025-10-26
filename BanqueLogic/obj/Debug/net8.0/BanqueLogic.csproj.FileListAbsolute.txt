@@ -9,3 +9,4 @@ C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\BanqueLog
 C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\refint\BanqueLogic.dll
 C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\BanqueLogic.pdb
 C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\ref\BanqueLogic.dll
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\BanqueLogic.sourcelink.json

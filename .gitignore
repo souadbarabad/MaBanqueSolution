@@ -1,0 +1,13 @@
+# Fichiers et dossiers créés par Visual Studio à ignorer
+*.suo
+*.user
+*.sln.docstates
+
+# Dossier .vs (très important !)
+.vs/
+
+# Dossiers de compilation (très important !)
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/

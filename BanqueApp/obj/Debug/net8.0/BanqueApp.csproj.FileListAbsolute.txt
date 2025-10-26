@@ -16,3 +16,4 @@ C:\Users\hp\source\repos\MaBanqueSolution\BanqueApp\obj\Debug\net8.0\refint\Banq
 C:\Users\hp\source\repos\MaBanqueSolution\BanqueApp\obj\Debug\net8.0\BanqueApp.pdb
 C:\Users\hp\source\repos\MaBanqueSolution\BanqueApp\obj\Debug\net8.0\BanqueApp.genruntimeconfig.cache
 C:\Users\hp\source\repos\MaBanqueSolution\BanqueApp\obj\Debug\net8.0\ref\BanqueApp.dll
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueApp\obj\Debug\net8.0\BanqueApp.sourcelink.json

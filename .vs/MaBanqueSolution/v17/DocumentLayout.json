@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{595E7DA6-342C-4C0C-9050-117CA2095BDB}|BanqueLogic.Tests\\BanqueLogic.Tests.csproj|solutionrelative:banquelogic.tests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0A781D2E-F8C3-494C-8F11-C7548B938C95}|BanqueApp\\BanqueApp.csproj|c:\\users\\hp\\source\\repos\\mabanquesolution\\banqueapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A781D2E-F8C3-494C-8F11-C7548B938C95}|BanqueApp\\BanqueApp.csproj|solutionrelative:banqueapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0333CEC3-684B-420B-93E9-1F6A1EA17DCF}|BanqueLogic\\BanqueLogic.csproj|c:\\users\\hp\\source\\repos\\mabanquesolution\\banquelogic\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0333CEC3-684B-420B-93E9-1F6A1EA17DCF}|BanqueLogic\\BanqueLogic.csproj|solutionrelative:banquelogic\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A781D2E-F8C3-494C-8F11-C7548B938C95}|BanqueApp\\BanqueApp.csproj|c:\\users\\hp\\source\\repos\\mabanquesolution\\banqueapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A781D2E-F8C3-494C-8F11-C7548B938C95}|BanqueApp\\BanqueApp.csproj|solutionrelative:banqueapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A781D2E-F8C3-494C-8F11-C7548B938C95}|BanqueApp\\BanqueApp.csproj|c:\\users\\hp\\source\\repos\\mabanquesolution\\banqueapp\\banqueapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A781D2E-F8C3-494C-8F11-C7548B938C95}|BanqueApp\\BanqueApp.csproj|solutionrelative:banqueapp\\banqueapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +26,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "BanqueApp.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MaBanqueSolution\\BanqueApp\\BanqueApp.csproj",
+              "RelativeDocumentMoniker": "BanqueApp\\BanqueApp.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MaBanqueSolution\\BanqueApp\\BanqueApp.csproj",
+              "RelativeToolTip": "BanqueApp\\BanqueApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T19:50:10.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MaBanqueSolution\\BanqueApp\\Program.cs",
               "RelativeDocumentMoniker": "BanqueApp\\Program.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\MaBanqueSolution\\BanqueApp\\Program.cs",
               "RelativeToolTip": "BanqueApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T17:57:35.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T17:57:35.366Z"
             },
             {
               "$type": "Document",
@@ -45,23 +60,22 @@
               "RelativeDocumentMoniker": "BanqueLogic.Tests\\BankAccountTests.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\MaBanqueSolution\\BanqueLogic.Tests\\BankAccountTests.cs",
               "RelativeToolTip": "BanqueLogic.Tests\\BankAccountTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T16:44:51.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MaBanqueSolution\\BanqueLogic\\BankAccount.cs",
               "RelativeDocumentMoniker": "BanqueLogic\\BankAccount.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\MaBanqueSolution\\BanqueLogic\\BankAccount.cs",
               "RelativeToolTip": "BanqueLogic\\BankAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T13:18:18.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T13:18:18.103Z"
             },
             {
               "$type": "Bookmark",

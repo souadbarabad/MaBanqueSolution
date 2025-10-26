@@ -171,3 +171,4 @@ C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic.Tests\obj\Debug\net8.0\ref
 C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic.Tests\obj\Debug\net8.0\BanqueLogic.Tests.pdb
 C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic.Tests\obj\Debug\net8.0\BanqueLogic.Tests.genruntimeconfig.cache
 C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic.Tests\obj\Debug\net8.0\ref\BanqueLogic.Tests.dll
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic.Tests\obj\Debug\net8.0\BanqueLogic.Tests.sourcelink.json
