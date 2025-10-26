@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SCa3ZGMQThQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\MaBanqueSolution\\BanqueApp\\BanqueApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.21\\microsoft.dotnet.ilcompiler.8.0.21.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.21\\microsoft.net.illink.tasks.8.0.21.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.21\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\bin\Debug\net8.0\BanqueLogic.deps.json
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\bin\Debug\net8.0\BanqueLogic.dll
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\bin\Debug\net8.0\BanqueLogic.pdb
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\BanqueLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\BanqueLogic.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\BanqueLogic.AssemblyInfo.cs
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\BanqueLogic.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\BanqueLogic.dll
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\refint\BanqueLogic.dll
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\BanqueLogic.pdb
+C:\Users\hp\source\repos\MaBanqueSolution\BanqueLogic\obj\Debug\net8.0\ref\BanqueLogic.dll
